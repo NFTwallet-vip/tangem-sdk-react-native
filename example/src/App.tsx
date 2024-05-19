@@ -13,7 +13,7 @@ import TangemSdk, {
   EllipticCurve,
   FileVisibility,
   OwnerFile,
-} from 'tangem-sdk-react-native';
+} from '../../';
 
 interface ExampleState {
   card?: Card;
